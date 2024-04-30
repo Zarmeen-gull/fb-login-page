@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(209, 213, 243);
+}
+.container{
+    margin: 10% 30% 10% 30%;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+     align-items: center;
+}
+.box{
+    background: white;
+    
+    padding: 0 0 20px 0;
+    border-radius: 20px;
+}
+    
+.button{
+    background: blue; 
+    color: white;
+     border-color: rgb(11, 26, 233);
+     border-radius:5px;
+     width: 38%;
+}
+#fp{
+    color: blue;
+}
+.or{
+    display: flex;
+    align-items: center;
+}
+#cna{
+    color: white;
+    background: green;
+    border-radius: 5px;
+    border-color: green;
+}
